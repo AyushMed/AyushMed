@@ -22,13 +22,12 @@
   I like working on Kaggle Competitions and other data-related projects in my spare time, and you can find most of them here!
 </h2>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
+A little about me:
 - :telescope: I’m studying to work in the field of data science and analytics.
 
 - :seedling: I hope to use data-driven decision making to better the world however I can.
 
-- :zap: In my free time, I write fiction short stories (no github for those lol) solve problems on LeetCode and .
+- :zap: In my free time, I write short stories, refresh my coding problems, and learn random things.
 
 ### :hammer_and_wrench: Languages I know:
 
@@ -61,6 +60,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushMed&style=flat-square&color=blue" alt=""/>
