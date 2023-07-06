@@ -19,6 +19,9 @@
   I like working on Kaggle Competitions and other data-related projects in my spare time, and you can find most of them here!
 </h2>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushMed&style=flat-square&color=blue" alt=""/>
+</div.
 
 
 <!--
