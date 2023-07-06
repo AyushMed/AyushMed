@@ -23,13 +23,13 @@
 </h2>
 
 A little about me:
-- :telescope: I’m studying to work in the field of data science and analytics.
+- 🪛 I’m studying to work in the field of data science and analytics.
 
-- :seedling: I hope to use data-driven decision making to better the world however I can.
+- :accessibility: I hope to use data-driven decision making to better the world however I can.
 
-- :zap: In my free time, I write short stories, refresh my coding problems, and learn random things.
+- ✍️ In my free time, I write short stories, refresh my coding problems, and learn random things.
 
-### :hammer_and_wrench: Languages I know:
+### :hammer_and_wrench: Languages I know/am learning:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -43,7 +43,7 @@ A little about me:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Gatsby"  alt="Gatsby" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn"  alt="Scikit-Learn" width="80" height="40"/>
 </div>
 
 <!--
