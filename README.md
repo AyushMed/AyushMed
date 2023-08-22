@@ -19,7 +19,7 @@
 </h1>
 
 <h2 align="center">
-  I like working on Kaggle Competitions and other data-related projects in my spare time, and you can find most of them here!
+  I like working on Kaggle Competitions and other data-related projects in my spare time, and you can find some of them here!
 </h2>
 
 A little about me:
