@@ -43,7 +43,7 @@ A little about me:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn"  alt="Scikit-Learn" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn"  alt="Scikit-Learn" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>
 </div>
 
