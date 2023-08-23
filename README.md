@@ -12,10 +12,14 @@
   </a>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushMed&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h1 align="center">
-  Hi!
+  Hey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Ayush, a Math & CS student at Carnegie Mellon University. 
+  I'm Ayush, a Math & CS undergrad at Carnegie Mellon University. 
 </h1>
 
 <h2 align="center">
@@ -47,26 +51,15 @@ A little about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>
 </div>
 
-<!--
-**AyushMed/AyushMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
+
+#### Check out some of my personal projects below! :arrow_down:
 
 ###  
 
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushMed&style=flat-square&color=blue" alt=""/>
-</div>
