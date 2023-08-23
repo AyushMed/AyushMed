@@ -23,7 +23,7 @@
 </h2>
 
 A little about me:
-- 🪛 I’m studying to work in the field of data science and analytics.
+- 🪛 I’m planning to work full-time in the field of data science and analytics after graduating.
 
 - :accessibility: I hope to use data-driven decision making to better the world however I can.
 
