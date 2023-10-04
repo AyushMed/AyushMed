@@ -31,7 +31,7 @@ A little about me:
 
 - :accessibility: I hope to use data-driven decision making to better the world however I can.
 
-- ✍️ In my free time, I write short stories, refresh my coding problems, and learn random things.
+- ✍️ In my free time, I write short stories, refresh my coding skills, and learn random things.
 
 ### :hammer_and_wrench: Languages I know/am learning:
 
