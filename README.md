@@ -1,3 +1,6 @@
+<div align = "center">
+  <img src="https://github.com/AyushMed/AyushMed/blob/main/mountain.gif" width = "400"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ayush-mediratta/">
@@ -8,9 +11,6 @@
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushMed&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h1 align="center">
   Hey!
